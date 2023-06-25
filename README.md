@@ -27,5 +27,7 @@
 
 <p>&nbsp;
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=loethor&show_icons=true&locale=en" alt="loethor" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=loethor&" alt="loethor" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=loethor&" alt="loethor" />
 </p>
+
+
