@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loethor&label=Profile%20views&color=0e75b6&style=flat" alt="loethor" /> </p>
 
-- 🔭 I’m currently working on [Alpacos](https://github.com/Loethor/Alpacos)
+- 🔭 I’m currently working on [Advent of code 2023 in Python](https://github.com/Loethor/adventofpython)
 
 - 🌱 I’m currently learning **godot**, **pixel art (aseprite)**, and **blender**
 
