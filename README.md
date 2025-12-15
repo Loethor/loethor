@@ -29,7 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=loethor&show_icons=true&locale=en&layout=compact" alt="loethor" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=loethor&show_icons=true&locale=en" alt="loethor" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=loethor&" alt="loethor" /></p>
-
-
