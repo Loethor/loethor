@@ -8,6 +8,7 @@
 
 I love exploring **Godot** for game development, diving into **shaders** and **generative algorithms**, building **system simulations** (boids, n-body physics), and optimizing with **high-performance computing**.
 
+
 [![LinkedIn: luis-roma-barge](https://img.shields.io/badge/-luis--roma--barge-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luis-roma-barge/)](https://www.linkedin.com/in/luis-roma-barge/) [![GitHub Loethor](https://img.shields.io/github/followers/loethor?label=follow&style=social)](https://github.com/loethor)
 
 ## Project Highlights
@@ -35,7 +36,7 @@ I love exploring **Godot** for game development, diving into **shaders** and **g
 <p>
 	<a href="https://github.com/search?q=user%3Aloethor+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-4B8BBE.svg?logo=python&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Aloethor+language%3Agdscript"><img alt="GDScript" src="https://img.shields.io/badge/GDScript-478CBF.svg?logo=godotengine&logoColor=white"></a>
-	<a href="https://github.com/search?q=user%3Aloethor+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white"></a>
+	<a href="https://github.com/search?q=user%3Aloethor+language%3Ac"><img alt="C" src="https://custom-icon-badges.demolab.com/badge/C-A8B9CC.svg?logo=c-in-hexagon&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Aloethor+language%3Acpp"><img alt="C++" src="https://custom-icon-badges.demolab.com/badge/C++-9C033A.svg?logo=cpp2&logoColor=white"></a>
 	<a href="https://github.com/search?q=user%3Aloethor+language%3Arust"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
 </p>
@@ -49,3 +50,24 @@ I love exploring **Godot** for game development, diving into **shaders** and **g
 	<a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557c.svg?logo=matplotlib&logoColor=white"></a>
 	<a href="#"><img alt="unittest" src="https://custom-icon-badges.demolab.com/badge/unittest-333333.svg?logo=python&logoColor=white"></a>
 </p>
+
+
+
+<details>
+	<summary><h2>📊 Stats and activity</h2></summary>
+
+	<h3>🔥 Streaks</h3>
+	<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+			<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="loethor's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=loethor&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+	</a>
+
+	<h3>📈 GitHub Stats</h3>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="loethor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=loethor&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=true" height="192px"/>
+	</a>
+	<a href="https://github.com/anuraghazra/github-readme-stats">
+		<img alt="loethor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=loethor&langs_count=8&layout=compact&theme=prussian&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
+	</a>
+	<br/>
+</details>
+
