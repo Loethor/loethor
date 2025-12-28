@@ -70,16 +70,11 @@ I love exploring **Godot** for game development, diving into **shaders** and **g
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="loethor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=loethor&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=true" height="192px"/></a>
 	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="loethor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=loethor&langs_count=8&layout=compact&theme=prussian&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
 	<br/>
-	<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
 
 	<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 	<!--
 	<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="loethor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=loethor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 	-->
-
-	<h3>⚡ Recent GitHub Activity</h3>
-	<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-	<!--START_SECTION:activity-->
-	<!--END_SECTION:activity-->
 </details>
 
