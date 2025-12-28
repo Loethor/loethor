@@ -53,28 +53,19 @@ I love exploring **Godot** for game development, diving into **shaders** and **g
 
 
 
-<details>
-	<summary><h2>📊 Stats and Activity</h2></summary>
+## Stats and activity
 
-	<h3>🔥 Streak Stats</h3>
-	<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
-	<p>
-		<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-			<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="loethor's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=loethor&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
-		</a>
-		<p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-	</p>
+### Streaks
+<a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+		<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="loethor's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=loethor&theme=prussian&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+</a>
 
-	<h3>💻 GitHub Profile Stats</h3>
-	<!-- https://github.com/anuraghazra/github-readme-stats -->
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="loethor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=loethor&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=true" height="192px"/></a>
-	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="loethor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=loethor&langs_count=8&layout=compact&theme=prussian&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
-	<br/>
-
-
-	<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-	<!--
-	<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="loethor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=loethor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-	-->
-</details>
+### GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img alt="loethor's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=loethor&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&hide_border=true" height="192px"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+	<img alt="loethor's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=loethor&langs_count=8&layout=compact&theme=prussian&hide_border=true&hide=Jupyter%20Notebook,Roff" height="192px"/>
+</a>
+<br/>
 
