@@ -20,6 +20,9 @@ I love exploring **Godot** for game development, diving into **shaders** and **g
 - 🌱 [Ground Zero: Lotka-Volterra](https://github.com/Loethor/ground-zero-lokta-volterra) - interactive predator-prey ecosystem simulation with visualization and parameter exploration
 - 🌌 [N-Bodies](https://github.com/Loethor/n-bodies) - scalable n-body gravitational simulation with post-processing rendering
 
+## My compiled lists
+
+- 📚 [Learning resoureces](https://github.com/Loethor/learning-resources) - valuable links to articles, videos, and other resources organized by topics
 
 ## Tech stack
 
